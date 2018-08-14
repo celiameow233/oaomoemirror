@@ -8,7 +8,14 @@
 
 **依据《中华人民共和国著作权法》第十九条，《中华人民共和国继承法》第三十二条和《中华人民共和国宪法》第十二条等法律法规，本镜像在中华人民共和国境内（不含香港特别行政区、澳门特别行政区与台湾地区）是合法的，不受侵害。**
 
- <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
- <span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123917453-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123917453-1');
+</script>
 
 ![无障碍网页标识](wa_gold_s.jpg)
